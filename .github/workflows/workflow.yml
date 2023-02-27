@@ -9,4 +9,4 @@ jobs:
       - name: collie
         uses: dvkunion/collie_tricker@main
         with:
-          token: cfsan6a8uter77sjvib0  # your token,  It will be safer to use ${{ secrets.token }}, see [https://docs.github.com/actions/security-guides/encrypted-secrets] 
+          token: cfu4vti8uter77sk0990  # your token,  It will be safer to use ${{ secrets.token }}, see [https://docs.github.com/actions/security-guides/encrypted-secrets] 
